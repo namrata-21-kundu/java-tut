@@ -160,7 +160,7 @@ Loops • Conditionals • Arrays • Strings • Sorting • Searching • Patt
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://github.com/snackoverflowasad">
-    <img src="/java-tut/contributor image/Asad.png" width="80px" style="border-radius:50%">
+    <img src=".github/contributor image/Asad.png" width="80px" style="border-radius:50%">
     <br>
     <sub><b>Asad Hussain</b></sub>
   </a>
